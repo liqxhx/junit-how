@@ -1,2 +1,2 @@
 # junit-how
-junit基本使用
+junit-4.10基本使用
