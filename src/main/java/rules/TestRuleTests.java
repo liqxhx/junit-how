@@ -12,9 +12,9 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 自定义规则.
- *
+ * 自定义规则
  * 重复100次测试方法
+ * ref:http://blog.sina.com.cn/s/blog_6f6472410101dm1y.html
  */
 public class TestRuleTests {
 
