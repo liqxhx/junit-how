@@ -9,7 +9,7 @@ org.junit.internal.runners.JUnit38ClassRunner	为了向后兼容Junit3.8的运�
 org.junit.runners.JUnit4	Junit4的测试运行器
 org.junit.runners.Parameterized	可以使用不同参数来运行相同测试集的运行器
 org.junit.runners.Suite	包含不同测试的容器
-
+org.springframework.test.context.junit4.SpringRunner spring的运行器
 ```
 ### 测试集
 * 一组测试，测试集是把多个相关测试归入一组的便捷方式
